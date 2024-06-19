@@ -15,7 +15,7 @@ This project implements various techniques to detect fraudulent transactions usi
 
 
 ## Dataset
-The dataset used for this project is sourced from [here](https://colab.research.google.com/drive/1ELwy8dUHly5QvBX_vc_Pqbt-ZZ5Xr3QF).
+The dataset used for this project is sourced from [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv).
 
 ## Data Wrangling Techniques
 - Loaded and inspected the dataset.
